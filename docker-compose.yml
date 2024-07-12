@@ -1,6 +1,6 @@
 version: '3'
 services:
   app:
-    image: your_dockerhub_username/myapp:latest
+    image: rdepani/myapp:latest
     ports:
       - "80:80"
